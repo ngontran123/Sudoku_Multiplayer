@@ -1,0 +1,17 @@
+.bottom-border
+{
+    border-bottom: 5px solid black;
+}
+.right-border
+{
+    border-right: 5px solid black;
+}
+.isClicked
+{
+    border:5px solid red;
+}
+.puzzleNumber
+{
+    background-color: cadetblue;
+    border-color: aqua;
+}
